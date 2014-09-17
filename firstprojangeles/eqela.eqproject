@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# FirstProjAngeles
+#
+
+projectname: FirstProjAngeles
+vendorid: com.mycompany
+mainmodule: com.mycompany.firstprojangeles
